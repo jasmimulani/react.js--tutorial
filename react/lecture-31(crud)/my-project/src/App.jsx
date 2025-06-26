@@ -8,6 +8,8 @@ import Error from './Pages/Error'
 import EditUser from './Pages/EditUser'
 import { Home1 } from './Pages/Home1'
 
+
+//  run this file firstofall we can start json server in git bash terminal command is npx json-server User.json
 function App() {
   return (
     <>
